@@ -4,5 +4,10 @@
   <title>Section Title</title>
 
   <p> Text of section. </p>
+  <p> 
+    The solution to a differential equation is an important concept in a course about differential equations.  
+    <m>y=f(x)</m>
+  </p>
+
 
 </section>
